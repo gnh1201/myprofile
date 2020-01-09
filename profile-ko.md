@@ -77,7 +77,7 @@ We're special research team of security, accessibility, data structure and conve
 * Polytechnic project competition 동상 한국폴리텍대학 인천캠퍼스 2014년 10월 수상
     A network door lock it is access control device with securities of embedded system.
 
-== 저술 현황 ==
+## 저술 현황
 * A study on compress behavior information and compare similarity of malicious code via natural language processing
     2016년 Korea Association of Information Systems
 
